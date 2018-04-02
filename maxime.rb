@@ -1,3 +1,5 @@
-puts "Hello World ! And Welcome #{nom}"
 
 nom = "Max"
+
+
+puts "Hello World ! And Welcome #{nom} !"
